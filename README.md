@@ -1,2 +1,2 @@
 # colorful-notebook
-A simple notebook that can display multiple colors
+### A simple notebook that can display multiple colors 
